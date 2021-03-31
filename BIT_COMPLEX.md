@@ -10,4 +10,4 @@
 
 5. ` git commit -m "This is the message" `
 
-6. ` gt push `
+6. ` git push `
