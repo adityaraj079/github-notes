@@ -3,6 +3,7 @@
 1. Fork your destination repository under your username
 
  (Now to the local machine)
+ 
 2. ` git init `
 
 3. ` git clone "Repo link" `
