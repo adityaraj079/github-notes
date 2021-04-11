@@ -1,6 +1,6 @@
 # github-notes
 
-## Some of important links will be found here
+## Some of important links will be found here.
 
 S.No.  |  Topic  |  Repo link
 -----  |  -----  |  ---------
