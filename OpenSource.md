@@ -9,10 +9,11 @@ Second step is to study the contribution guide
 ## Fork the repo
 Forking the repository used your username is the most important thing to do on Github
 
-![alt text](https://github.com/adityaraj079/github-notes/blob/main/Images/Fork.png)
+<p align="center">  <img  src="https://github.com/adityaraj079/github-notes/blob/main/Images/Fork.png">  </p>
 
 ## Clone the project 
 Clone the project on your local machine to make the changes 
+
 `
 git clone <Repo_Name>
 `
@@ -28,8 +29,10 @@ Open Source projects have a number of contributors who can push code anytime. So
 The last command pushes the latest code to your forked repository on Github. The origin is the remote pointing to your forked repository on github.
 
 ## Now it two parts
-1. Working on a multi branch project
-2. Working on a single branch project
+1. [Working on a multi branch project](### Working on a multi branch project)
+          section_title<a name="Working on a multi branch project"></a>    
+2. [Working on a single branch project](### Working on a single branch project)
+          section_title<a name="Working on a single branch project"></a>    
 
 ### Working on a multi branch project
 1. ` git branch `  -  Know the branch you are currently on
@@ -50,7 +53,8 @@ The last command pushes the latest code to your forked repository on Github. The
 You now have a new branch containing the modifications you want in the project you forked. Now, push your new branch to your remote github fork.
 `$ git push origin <feature-branch>` Now you are ready to help the project by opening a pull request means you now tell the project managers to add the feature or bug fix to original repository. You can open a pull request by clicking on green icon -
 
-![alt text](https://github.com/adityaraj079/github-notes/blob/main/Images/PR.png)
+<p align="center">  <img  src="https://github.com/adityaraj079/github-notes/blob/main/Images/PR.png">  </p>
+
 
 Remember your upstream base branch should be main and source should be your feature branch. Click on create pull request and add a name to your pull request. You can also describe your feature.
 
