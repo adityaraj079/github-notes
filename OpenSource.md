@@ -61,4 +61,7 @@ Remember your upstream base branch should be main and source should be your feat
 Fantastic! You've already made your first contribution.🥳
 
 BE OPEN!
+
 Happy Coding 👩‍💻👩‍💻
+
+---
