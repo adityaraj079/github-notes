@@ -29,9 +29,9 @@ Open Source projects have a number of contributors who can push code anytime. So
 The last command pushes the latest code to your forked repository on Github. The origin is the remote pointing to your forked repository on github.
 
 ## Now it two parts
-1. [Working on a multi branch project](#section_name)
+1. [Working on a multi branch project](https://github.com/adityaraj079/github-notes/blob/main/OpenSource.md#working-on-a-multi-branch-project)
           <a name="### Working on a multi branch project"></a>    
-2.  [Working on a single branch project](#section_name)
+2.  [Working on a single branch project](https://github.com/adityaraj079/github-notes/blob/main/OpenSource.md#working-on-a-single-branch-project)
           <a name="### Working on a single branch project"></a>    
 
 ### Working on a multi branch project
