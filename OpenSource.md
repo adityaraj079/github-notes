@@ -29,10 +29,9 @@ Open Source projects have a number of contributors who can push code anytime. So
 The last command pushes the latest code to your forked repository on Github. The origin is the remote pointing to your forked repository on github.
 
 ## Now it two parts
-1. [Working on a multi branch project](### Working on a multi branch project)
-          section_title<a name="Working on a multi branch project"></a>    
-2. [Working on a single branch project](### Working on a single branch project)
-          section_title<a name="Working on a single branch project"></a>    
+1. [Working on a multi branch project](#section_name)
+          section_title<a name="### Working on a multi branch project"></a>    
+2. Working on a single branch project
 
 ### Working on a multi branch project
 1. ` git branch `  -  Know the branch you are currently on
