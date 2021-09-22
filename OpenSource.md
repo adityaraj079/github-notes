@@ -30,8 +30,9 @@ The last command pushes the latest code to your forked repository on Github. The
 
 ## Now it two parts
 1. [Working on a multi branch project](#section_name)
-          section_title<a name="### Working on a multi branch project"></a>    
-2. Working on a single branch project
+          <a name="### Working on a multi branch project"></a>    
+2.  [Working on a single branch project](#section_name)
+          <a name="### Working on a single branch project"></a>    
 
 ### Working on a multi branch project
 1. ` git branch `  -  Know the branch you are currently on
